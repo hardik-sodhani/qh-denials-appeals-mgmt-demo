@@ -1,6 +1,6 @@
 # Denials AI Copilot — Qualified Health Prototype
 
-AI-powered claim denial analysis, evidence matching, and appeal generation.
+AI-powered claim denial analysis, evidence matching, and appeal generation drive by Claude
 
 ## Quick Start (Local)
 
